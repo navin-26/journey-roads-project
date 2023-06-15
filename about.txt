@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Reem Kufi Ink
+- Font Author: Copyright 2015-2022 The Reem Kufi Project Authors (https://github.com/aliftype/reem-kufi).
+- Font Source: http://fonts.gstatic.com/s/reemkufiink/v9/oPWJ_kJmmu8hCvB9iFumxZSnRj5dQnSX1ko.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
